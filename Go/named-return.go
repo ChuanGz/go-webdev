@@ -23,7 +23,7 @@ func Inductive(perfected int) (x, y, z int) {
 	return
 }
 
-func main() {
+func main3() {
 	fmt.Println(Inductive(6))
 	fmt.Println(Inductive(36))
 	fmt.Println(Inductive(16))
