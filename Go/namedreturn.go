@@ -28,4 +28,5 @@ func main() {
 	fmt.Println(Inductive(36))
 	fmt.Println(Inductive(16))
 	fmt.Println(Inductive(1388))
+	fmt.Println(694 * 347)
 }
