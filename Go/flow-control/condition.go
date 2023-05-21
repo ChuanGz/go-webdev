@@ -5,7 +5,7 @@ import (
 	"time"
 )
 
-func main() {
+func main1() {
 	//	ifelse()
 	switchf()
 }
