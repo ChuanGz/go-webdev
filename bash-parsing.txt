@@ -1,0 +1,8 @@
+The order of expansions is: 
+brace expansion,
+tilde expansion, 
+parameter and variable expansion, 
+arithmetic expansion,  
+command substitution,
+word splitting,
+filename expansion
